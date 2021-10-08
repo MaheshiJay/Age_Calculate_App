@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Age Calculate App</string>
+    <string name="topic">Enter your Year of Birth :</string>
+    <string name="btnSubmit">SUBMIT</string>
+</resources>
